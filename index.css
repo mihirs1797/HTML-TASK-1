@@ -1,0 +1,15 @@
+body{
+    background-color: blanchedalmond;
+}
+tbody{
+    background-color: blanchedalmond;
+}
+
+.tableHead{
+    background-color: darkred;
+    color: white;
+}
+
+td {
+    border: solid 2px lightgrey;
+}
